@@ -2,6 +2,8 @@
 
 Étudiant en **BUT Informatique** à l'IUT Lyon 1, je me spécialise dans le **développement web** : sites et applications web. Bilingue **anglais-français**.
 
+*Computer Science student (BUT Informatique) at IUT Lyon 1, specialising in web development: websites and web applications. Fluent in English and French.*
+
 - **Portfolio :** https://tristanmuller007.github.io/Portfolio/
 - **Email :** tristan@familymuller.me
 
